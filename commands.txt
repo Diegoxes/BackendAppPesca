@@ -1,0 +1,5 @@
+NODEJS APIDOC
+apidoc -i "C:/Users/guillermoa/Documents/Github/hk-eureka2-be/app/" -o "C:/Users/guillermoa/Documents/Github/hk-eureka2-be/doc/" 
+
+
+

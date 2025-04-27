@@ -1,0 +1,10 @@
+{
+  "name": "Pescando con Hayduk",
+  "version": "1.0.0",
+  "description": "API REST para los proyectos de BI.",
+  "title": "Pescando con Hayduk",
+  "template": {
+    "forceLanguage": "es"
+  },
+  "url": "http://10.0.0.5:8085/"
+}
